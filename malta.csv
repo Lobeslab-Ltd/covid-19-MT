@@ -370,9 +370,9 @@
 11/04/2020,369,33,Male,Maltese,Malta,03/03/2020,06/04/2020,Sore Throat,,,Local,,,,
 11/04/2020,370,84,Male,Maltese,Malta,,10/04/2020,Shortness of Breath,,,Local,,,,11/04/2020
 12/04/2020,371,61,Male,Maltese,UK,09/04/2020,09/04/2020,"Cough, Shortness of Breath, Fatigue",,,Imported,,,,
-12/04/2020,372,58,Female,Maltese,Malta,,07/04/2020,"Headache, Sore Throat",,Yes,Local,,,,
-12/04/2020,373,37,Male,Maltese,Malta,,08/04/2020,"Cough, Runny Nose",,Yes,Local,,,,
-12/04/2020,374,50,Female,Maltese,Malta,,09/04/2020,"Headache, Cough, Sore Throat, Diarrhea",,Yes,Local,,,,
+12/04/2020,372,58,Female,Maltese,Malta,,07/04/2020,"Headache, Sore Throat",Yes,,Local,,,,
+12/04/2020,373,37,Male,Maltese,Malta,,08/04/2020,"Cough, Runny Nose",Yes,,Local,,,,
+12/04/2020,374,50,Female,Maltese,Malta,,09/04/2020,"Headache, Cough, Sore Throat, Diarrhea",Yes,,Local,,,,
 12/04/2020,375,73,Male,Maltese,Malta,,05/04/2020,"Sore Throat, Muscle Pain",,,Local,,,,
 12/04/2020,376,74,Male,Maltese(Gozo),Malta,,,,,,Local,,,,
 12/04/2020,377,25,Male,,Malta,,,,,,Local,,,,
