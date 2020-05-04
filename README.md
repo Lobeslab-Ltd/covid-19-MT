@@ -13,3 +13,6 @@ It is suggested to file an issue on GitHub with any queries or suggestions.
 
 ## Who maintains and contributes to the project
 This project is maintained by [Lobeslab Ltd](https://lobeslab.com).
+
+## Clarifications
+Missing data means that the information is not available. This data is gathered manually from the daily media update provided by the health superintendent Profs. Charmaine Gauci.
