@@ -15,4 +15,8 @@ It is suggested to file an issue on GitHub with any queries or suggestions.
 This project is maintained by [Lobeslab Ltd](https://lobeslab.com).
 
 ## Clarifications
+### Missing Data
 Missing data means that the information is not available. This data is gathered manually from the daily media update provided by the health superintendent Profs. Charmaine Gauci.
+
+### Inclusion of cases by migrants
+On Sunday 16th August 2020, the Maltese Authorities announced that cases of COVID-19 from incoming illegal migrants will no longer be included in the total case count. He also reported that past cases will be removed. This has presented a data integrity problem for this repository since it is not entirely clear on which days these cases were removed. We also believe that it is unethical to remove these cases. For this reason, this repository shall not revise the case counts prior to the 16th of August. Since we do not have access to the number of cases from migrants we have no way of including them so as of the 16th August 2020 this repository will not be including migrant cases due to a lack of data from official sources and not by our choice.
