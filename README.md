@@ -73,5 +73,7 @@ We are revising the malta_time_series.csv file to align with the official values
 4th September 2020: 174 total casees less, 44 recovered cases less, 130 active cases less.
 21st September 2020: 179 total casees less, 44 recovered cases less, 133 active cases less.
 
+### Archive folder	
+This folder contains the malta.csv and malta_time_series_with_migrants.csv files.  The malta.csv file is no longer relevant as the specific patient-related data is no longer provided. The malta_time_series_with_migrants.csv file is in line with the previous repository revision
 
 
