@@ -61,3 +61,17 @@ On Sunday 16th August 2020, the Maltese Authorities announced that cases of COVI
 
 ### Recoveries of migrant cases not removed
 Although new cases of COVID-19 amongst illegal immigrants were removed from other repositories and no longer tracked, it is believed, that until the decision was taken some of the migrant cases recovered and were reported together with the local recoveries. This means that the delta in cases for confirmed, recovered and active across repositories that track migrant cases versus those that don't will not be consistent.
+
+
+### Revision of repository data clarification
+We are revising the malta_time_series.csv file to align with the official values from Sahha facebook page, which ommitted the migrant cases as of 16th August 2020. For transparency we shall retain the previous data with migrant cases as had been documented, renamed to malta_time_series_with_migrants.csv. Following are the discrepencies between the two files as per 24th June 2020:
+
+16th August 2020: 105 total cases less, 44 recovered cases less, 61 active cases less.
+29th August 2020: 105 total casees less, 44 recovered cases less, 60 active cases less.
+31st August 2020: 137 total casees less, 44 recovered cases less, 93 active cases less.
+3rd September 2020: 147 total casees less, 44 recovered cases less, 103 active cases less.
+4th September 2020: 174 total casees less, 44 recovered cases less, 130 active cases less.
+21st September 2020: 179 total casees less, 44 recovered cases less, 133 active cases less.
+
+
+
